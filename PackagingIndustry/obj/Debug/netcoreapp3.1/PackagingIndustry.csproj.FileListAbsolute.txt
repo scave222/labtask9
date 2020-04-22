@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\labtask9\packagingindustry\obj\Debug\netcoreapp3.1\PackagingIndustry.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\labtask9\packagingindustry\obj\Debug\netcoreapp3.1\PackagingIndustry.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\labtask9\packagingindustry\obj\Debug\netcoreapp3.1\PackagingIndustry.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\labtask9\packagingindustry\obj\Debug\netcoreapp3.1\PackagingIndustry.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\labtask9\packagingindustry\bin\Debug\netcoreapp3.1\PackagingIndustry.exe
+C:\codebits-academy\html5\C#\labtask9\packagingindustry\bin\Debug\netcoreapp3.1\PackagingIndustry.deps.json
+C:\codebits-academy\html5\C#\labtask9\packagingindustry\bin\Debug\netcoreapp3.1\PackagingIndustry.runtimeconfig.json
+C:\codebits-academy\html5\C#\labtask9\packagingindustry\bin\Debug\netcoreapp3.1\PackagingIndustry.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\labtask9\packagingindustry\bin\Debug\netcoreapp3.1\PackagingIndustry.dll
+C:\codebits-academy\html5\C#\labtask9\packagingindustry\bin\Debug\netcoreapp3.1\PackagingIndustry.pdb
+C:\codebits-academy\html5\C#\labtask9\packagingindustry\obj\Debug\netcoreapp3.1\PackagingIndustry.dll
+C:\codebits-academy\html5\C#\labtask9\packagingindustry\obj\Debug\netcoreapp3.1\PackagingIndustry.pdb
+C:\codebits-academy\html5\C#\labtask9\packagingindustry\obj\Debug\netcoreapp3.1\PackagingIndustry.genruntimeconfig.cache
