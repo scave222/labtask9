@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\codebits-academy\\html5\\C#\\labtask9\\packagingindustry\\PackagingIndustry.csproj": {}
+    "C:\\codebits-academy\\html5\\C#\\labtask9\\Packagingindustry\\PackagingIndustry.csproj": {}
   },
   "projects": {
-    "C:\\codebits-academy\\html5\\C#\\labtask9\\packagingindustry\\PackagingIndustry.csproj": {
+    "C:\\codebits-academy\\html5\\C#\\labtask9\\Packagingindustry\\PackagingIndustry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\codebits-academy\\html5\\C#\\labtask9\\packagingindustry\\PackagingIndustry.csproj",
+        "projectUniqueName": "C:\\codebits-academy\\html5\\C#\\labtask9\\Packagingindustry\\PackagingIndustry.csproj",
         "projectName": "PackagingIndustry",
-        "projectPath": "C:\\codebits-academy\\html5\\C#\\labtask9\\packagingindustry\\PackagingIndustry.csproj",
+        "projectPath": "C:\\codebits-academy\\html5\\C#\\labtask9\\Packagingindustry\\PackagingIndustry.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\codebits-academy\\html5\\C#\\labtask9\\packagingindustry\\obj\\",
+        "outputPath": "C:\\codebits-academy\\html5\\C#\\labtask9\\Packagingindustry\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

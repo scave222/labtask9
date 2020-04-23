@@ -14,7 +14,10 @@ namespace PackagingIndustry
             foreach(var item in pack)
             {
                 item.CalculateCost();
+                
             }
+            int TotalBal = twodaypack.bal + overnightpack.bal;
+                Console.WriteLine($"\nThe Total balance is: {TotalBal:C}");
         }
     }
 }
